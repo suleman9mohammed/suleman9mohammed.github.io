@@ -61,21 +61,21 @@ Vehicle data analysis involves using various data science techniques to understa
 
 This project focuses on segmenting customers using K-Means and Hierarchical Clustering methods to identify distinct customer groups. By analyzing purchasing behaviors and demographic data, valuable insights are provided to help businesses tailor marketing strategies, improve customer retention, and enhance overall customer experience. The results offer actionable segmentation that aids in optimizing business operations and targeting specific customer needs.
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)]([](https://github.com/suleman9mohammed/customer-segmentation-clustering)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/suleman9mohammed/customer-segmentation-clustering)
 
 
 ### LangChain-Chatbot
 
 This project showcases a conversational AI chatbot built using the LangChain framework. It leverages advanced language models to provide personalized responses, manage chat history, and stream dynamic interactions. Designed to improve user engagement in real-time, the chatbot can remember previous conversations, recall user information, and provide accurate, context-driven responses across sessions.
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)]([](https://github.com/suleman9mohammed/langchain-chatbot-demo.)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/suleman9mohammed/langchain-chatbot-demo.)
 
 
 ### LLM Customization and GGUF Import
 
 Explore LLM customization using the Ollama framework and efficient local inference with GGUF models. Customize model behavior, optimize performance, and compare responses to enhance model deployment. Includes practical examples, detailed comparisons, and insights into model fine-tuning and quantization techniques.
 
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)]([](https://github.com/suleman9mohammed/Llama3-GGUF-Customizati.on-Ollama)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/suleman9mohammed/Llama3-GGUF-Customizati.on-Ollama)
 
 
 
