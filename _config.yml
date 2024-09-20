@@ -1,18 +1,19 @@
-title: "<p align=\"center\">Mohammed Suleman</p>"
+title: "<p align=\"center\" style=\"color:black;\">Mohammd Suleman</p>"
 # logo: /assets/img/picture.png
 
 description: |
   <br>
-  <p align="center">
+  <p align="center" style="color:black;">
   <strong>About Me</strong>
   <br><br>
-  I'm Suleman, a postgraduate student in Data Science and AI specializing in NLP at IIIT Bangalore. I have experience in Machine Learning, Data Analytics, and AI, with expertise in Python, Deep Learning, and NLP using frameworks like TensorFlow and PyTorch.
+  I'm Mohammed Suleman, a postgraduate student in Data Science and AI specializing in NLP at IIIT Bangalore. I have experience in Machine Learning, Data Analytics, and AI, with expertise in Python, Deep Learning, and NLP using frameworks like TensorFlow and PyTorch.
   <br><br>
-  Feel free to reach out at <a href="mailto:suleman9mohammed@gmail.com">suleman9mohammed@gmail.com</a> for opportunities or inquiries!
+  Feel free to reach out at email: <a href="mailto:suleman9mohammed@gmail.com" style="color:black;">suleman9mohammed@gmail.com</a>
+
   <br><br>
-  <a href="pdf/resume.pdf">Resume</a> |
-  <a href="https://www.linkedin.com/in/mohammed-suleman/">LinkedIn</a> |
-  <a href="https://github.com/suleman9mohammed">GitHub</a>
+  <a href="pdf/resume.pdf" style="color:black;">Resume</a> |
+  <a href="https://www.linkedin.com/in/mohammed-suleman/" style="color:black;">LinkedIn</a> |
+  <a href="https://github.com/suleman9mohammed" style="color:black;">GitHub</a>
   </p>
 
 theme: jekyll-theme-cayman
